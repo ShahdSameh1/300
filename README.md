@@ -3,8 +3,7 @@
 ##### I am Pushpak, I am a So
 
 <a href='https://twitter.com/pushpak1300'><a href="https://pushpak1300.me/" target="_blank">
-  <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
-</a> 
+  <img src="https://img.shields.io/badge/websi
  
  <a href="https://twitter.com/pushpak1300" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
